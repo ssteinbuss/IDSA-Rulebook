@@ -80,5 +80,5 @@ Please be aware that figures with a transparent background are displayed differe
 Figures should always use a non transparent background. 
 
 ## Versioning
-IDSA uses the [SemVer](https://semver.org/) for versioning. The release versions
-are tagged with their respective version.
+The IDSA Rulebook will adopt an incremental and flexible update model rather than adhering to a rigid versioning scheme, as different sections will evolve at varying speeds. 
+Leveraging Git as the version control system (VCS), all modifications will be fully traceable, ensuring a transparent audit trail of historical changes. Periodically, we will tag and publish release versions to provide a stable reference point for discussions beyond the core contributor group.
