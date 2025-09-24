@@ -1,23 +1,11 @@
+
 # Introduction
 
 ## Who should read this Rulebook?
 
-It is all about data. If you are using data-driven ecosystems or
-data-driven business models, you should build or join a data space --
-and therefore read this Rulebook. And if you are not yet, think about
-it!
+This Rulebook is addressed to the broad community of actors who design, build, operate, regulate, or participate in data spaces. That includes private enterprises, public sector organisations, research institutions, standards bodies, service providers, and individuals who are responsible for data stewardship, compliance, or innovation. As data sharing assumes an ever more central role in economic activity and public policy, a clear understanding of the principles, requirements and governance models set out here is essential.
 
-Data sharing is becoming a critical success factor for all businesses
-and organizations in all national and international economies. Data
-access and sharing also helps in meeting specific societal, policy, and
-legal objectives that are in the public interest. This Rulebook covers
-several types of data sharing: data sharing ecosystems, peer-to-peer
-data sharing, data marketplaces and data-driven platforms.
-
-The data space approach described in this Rulebook is for anybody
-interested in trusted and secure data access and sharing. It is relevant
-to businesses, organizations and individuals wanting to learn how their
-data rights can be handled in these data spaces.
+The Rulebook offers practical guidance for those working with diverse forms of data sharing — from peer-to-peer sharing and federated ecosystems to data marketplaces and platform-based services. It is especially useful for readers who seek to promote trustworthy, sovereign, and legally compliant data sharing; to manage business risk and contractual governance; and to implement technical architectures that preserve participant autonomy and agency.
 
 ## Goals and scope of the IDSA Rulebook
 
@@ -25,97 +13,56 @@ data rights can be handled in these data spaces.
 
 ![Overview IDS enabled ecosystems](../media/Overview_IDS_enabled_ecosystems.jpg)
 
+<span style="color: red;">TODO: We need a new diagram here, replacing the outdated bottom layer of this picture.</span>
 
-The International Data Spaces Association (IDSA) has defined a data sharing
-scheme (IDS), including a reference architecture, open source building
-blocks, and a certification process for creating and operating data
-spaces. IDS is based on commonly accepted data governance models
-facilitating secure sharing and easy linking of data within business
-ecosystems. The goal of IDSA is to make IDS a global standard for
-sovereign data sharing.
+The International Data Spaces Association (IDSA) aims to cultivate a vibrant practitioner community and to provide concrete guidance that enables the realisation of data spaces across a range of capabilities and organisational models.
 
-The most important design principle for data spaces is to ensure data
-sovereignty for all data. This even enables the sharing of sensitive and
-most valuable data assets between selected participants. The IDS scheme
-guarantees data sovereignty for data owners who provide the shared data.
-This is the basis for offering smart services and for establishing
-innovative business processes.
+To that end, IDSA develops the Data Space Requirements (the Rulebook), the Reference Architecture Models (RAMs), and complementary implementation and operations guidance. IDSA also engages with international standardisation bodies and open-source initiatives to harmonise and share the knowledge contributed by its members, thereby supporting the global adoption and interoperability of data space technologies and business models.
+ 
+The central objectives for data spaces is the protection of the autonomy of participants, and to enable their agency over data sharing and use. This leads to the establishment of trustworthiness in data sharing. The IDSA Manifesto articulates the fundamental principles that underpin these objectives:
 
-IDSA defines the technical foundation and a set of agreements for secure
-and trusted data spaces, where companies of all sizes and industries can
-manage their data assets. The association already counts over one
-hundred and thirty member organizations from twenty countries. The
-interplay of all these organizations as data space participants and
-service providers will deliver on the shared value proposition of
-generating business value from data.
+<span style="color: red;">insert link and/or screenshot to the Manifesto here</span>
+
+These principles provide the foundation for trusted data sharing and for the consequent development of data-driven services and business models.
+
+IDSA specifies foundational requirements and implementable reference architectures that enable organisations of all sizes and sectors to offer, discover, negotiate, and consume data-sharing arrangements for their digital assets.
 
 ### The purpose and scope of the Rulebook
 
-The IDSA Rulebook serves several purposes regarding the development and
-operation of data spaces. The aim is to describe clearly which rules are
-mandatory and which are optional guidelines. This governance framework
-includes functional, technical, operational, and legal dimensions:
+The IDSA Rulebook supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
 
-- Guidelines for the functionality of common services are presented as
-    well as the definition, processes, and services of specific roles.
+- Common technical guidance, including functional requirements and the specification of value-adding services.
+- Recommendations for applying IDSA technical artefacts and for alignment with partner frameworks.
+- Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
+- Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
 
-- Guidelines how to implement or use a technical artefact of the IDSA.
+The Rulebook describes how technical roles (for example, Participant and Data Space Governance Authority — DSGA) relate to economic and legal responsibilities, and how these roles may map to obligations under instruments such as the EU Data Governance Act and the EU Data Act. <span style="color: red;">insert link to the acts</span>
 
-- Guidelines for the work and collaboration within data services.
+## Relationship with other organizations & initiatives
 
-- Guidelines for the legal basis in compliance with the regulatory
-    environment to ensure trust and security.
+### ISO/IEC
 
-This framework applies to all IDS-related roles and their interaction in
-the specific environment:
+### CEN/CENELEC
 
-1. The IDSA support organization is responsible for maintaining this
-Rulebook and supports its application. It enables the orchestration of
-processes and the realization of interfaces to other parties.
+### Eclipse Foundation
 
-2. The essential service providers make these services available to the
-participants. They are the source of common agreements.
+### Trust Frameworks
+#### iShare
+#### Gaia-X
 
-3. All IDS users are getting guidance on how to proceed in realizing
-use cases based on a trustworthy infrastructure and governance.
-
-![Purpose and scope](../media/media/image4.png)
-
-## Relationship with other initiatives
-
-### Data Spaces Business Alliance (DSBA)
-
-Four key European organizations (IDSA, Gaia-X, FIWARE, BDVA/DAIRO) have
-formed an alliance creating one voice and a common framework to make
-data spaces happen. Together, the DSBA represents 1,000+ leading
-industry players, associations, research organizations, innovators, and
-policymakers worldwide. With its combined cross-industry expertise,
-resources, and know-how, the DSBA drives awareness and technology
-adoption, shapes standards and enables integration of data spaces across
-industries.
-
-The aim of IDSA Rulebook is to ensure compatibility with the common data
-space framework as envisioned and defined by the DSBA.
+### DSSC
 
 ### The Data Space Landscape
 
-Further information on the landscape of data spaces are subject of a
-dedicated IDSA publication, [the Data Space Landscape](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-Data-Spaces-Landscape-1.pdf).
+<span style="color: red;">Insert information about the Dataspace Radar and Dataspace Connector Report --insert links</span>
 
 ## Related documents
 
-You can find additional information about IDS related elements at other
-sources provided by IDSA:
+You can find additional information about data space elements from IDSA in the following sources:
 
-• The IDSA website (<https://www.internationaldataspaces.org>) reflects
-what we do, who we are and what International Data Spaces stands for.
-Use cases illustrate the possibilities of the data economy and outline
-the added value created by the IDS standard. The download center gives
-access to the IDS Reference Architecture, papers and studies, scientific
-publications, and marketing material. Our content is constantly updated
-with news, blog articles, events and our regularly published magazine
-DATA SPACES NOW!
+- The IDSA website (<https://www.internationaldataspaces.org>) provides information about our work, use cases, publications and events.
+- The IDSA GitHub repositories (<https://github.com/International-Data-Spaces-Association>) host specifications, reference implementation guidelines and an open forum for member collaboration via issues, discussions and pull requests.
 
-• The IDSA GitHub repositories
-(<https://github.com/International-Data-Spaces-Association>) see also
-section 3.4
+<span style="color: red;">add information on how to become a member and how to participat in IDSA working groups</span>
+
+<span style="color: red;">add disclaimer about contributions being done under CC-BY</span>
