@@ -25,7 +25,7 @@ The central objectives for data spaces is the establishment of trustworthiness i
 
 These principles provide the foundation for trusted data sharing and for the consequent development of data-driven services and business models.
 
-IDSA specifies foundational requirements and implementable reference architectures that enable organisations of all sizes and sectors to offer, discover, negotiate, and consume data-sharing arrangements for their digital assets.
+IDSA specifies foundational requirements and implementable reference architectures that enable organizations of all sizes and sectors to offer, discover, negotiate, and consume data-sharing arrangements for their digital assets.
 
 ### The purpose and scope of the Rulebook
 
