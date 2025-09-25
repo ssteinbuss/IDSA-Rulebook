@@ -36,7 +36,7 @@ The IDSA Rulebook supports the creation, operation, and growth of data spaces by
 - Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
 - Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
 
-The Rulebook describes how technical roles (for example, Participant and Data Space Governance Authority — DSGA) relate to economic and legal responsibilities, and how these roles may map to obligations under instruments such as the EU Data Governance Act and the EU Data Act. <span style="color: red;">insert link to the acts</span>
+The Rulebook describes how technical roles (for example, Participant and Data Space Governance Authority — DSGA) relate to economic and legal responsibilities, and how these roles may map to obligations under instruments such as the EU Data Governance Act and the EU Data Act. <span style="color: red;">insert link to the acts</span> <br /> <span style="color: red;">insert non-EU acts</span>
 
 ## Relationship with other organizations & initiatives
 
