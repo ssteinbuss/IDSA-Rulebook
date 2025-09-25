@@ -3,7 +3,7 @@
 
 ## Who should read this Rulebook?
 
-This Rulebook is addressed to the broad community of actors who design, build, operate, regulate, or participate in data spaces. That includes private enterprises, public sector organisations, research institutions, standards bodies, service providers, and individuals who are responsible for data stewardship, compliance, or innovation. As data sharing assumes an ever more central role in economic activity and public policy, a clear understanding of the principles, requirements and governance models set out here is essential.
+This Rulebook is addressed to the broad community of actors who design, build, operate, regulate, or participate in data spaces. That includes private enterprises, public sector organizations, research institutions, standards bodies, and individuals who are responsible for data governance, stewardship, compliance, or innovation. As data sharing assumes an ever more fundamental role in economic activity and public policy, a clear understanding of the principles, requirements and governance models set out here is essential.
 
 The Rulebook offers practical guidance for those working with diverse forms of data sharing — from peer-to-peer sharing and federated ecosystems to data marketplaces and platform-based services. It is especially useful for readers who seek to promote trustworthy, sovereign, and legally compliant data sharing; to manage business risk and contractual governance; and to implement technical architectures that preserve participant autonomy and agency.
 
