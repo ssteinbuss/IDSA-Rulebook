@@ -15,7 +15,7 @@ The Rulebook offers practical guidance for those working with diverse forms of d
 
 <span style="color: red;">TODO: We need a new diagram here, replacing the outdated bottom layer of this picture.</span>
 
-The International Data Spaces Association (IDSA) aims to cultivate a vibrant practitioner community and to provide concrete guidance that enables the realisation of data spaces across a range of capabilities and organisational models.
+The International Data Spaces Association (IDSA) aims to cultivate a vibrant practitioner community and to provide concrete guidance that enables the realization of data spaces across a range of capabilities and organisational models.
 
 To that end, IDSA develops the Data Space Requirements (the Rulebook), the Reference Architecture Models (RAMs), and complementary implementation and operations guidance. IDSA also engages with international standardisation bodies and open-source initiatives to harmonise and share the knowledge contributed by its members, thereby supporting the global adoption and interoperability of data space technologies and business models.
  
