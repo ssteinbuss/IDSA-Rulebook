@@ -17,7 +17,7 @@ The Rulebook offers practical guidance for those working with diverse forms of d
 
 The International Data Spaces Association (IDSA) aims to cultivate a vibrant practitioner community and to provide concrete guidance that enables the realization of data spaces across a range of capabilities and organisational models.
 
-To that end, IDSA develops the Data Space Requirements (the Rulebook), the Reference Architecture Models (RAMs), and complementary implementation and operations guidance. IDSA also engages with international standardisation bodies and open-source initiatives to harmonise and share the knowledge contributed by its members, thereby supporting the global adoption and interoperability of data space technologies and business models.
+To that end, IDSA develops the Data Space Requirements (the Rulebook), the Reference Architecture Models (RAMs), complementary implementation and operations guidance. IDSA also engages with international standardization bodies and open-source initiatives to harmonize and share the knowledge contributed by its members, thereby supporting the global adoption and interoperability of data space technologies and business models.
  
 The central objectives for data spaces is the protection of the autonomy of participants, and to enable their agency over data sharing and use. This leads to the establishment of trustworthiness in data sharing. The IDSA Manifesto articulates the fundamental principles that underpin these objectives:
 
