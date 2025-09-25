@@ -9,6 +9,17 @@ The Rulebook offers practical guidance for those working with diverse forms of d
 
 ## Goals and scope of the IDSA Rulebook
 
+### The purpose and scope of the Rulebook
+
+The IDSA Rulebook supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
+
+- Common technical guidance, including functional requirements and specifications.
+- Recommendations for applying IDSA technical artefacts and for alignment with partner frameworks.
+- Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
+- Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
+
+The Rulebook describes how technical roles (for example, Participant and Data Space Governance Authority — DSGA) relate to economic and legal responsibilities, and how these roles may map to obligations under instruments such as the EU Data Governance Act and the EU Data Act. <span style="color: red;">insert link to the acts</span> <br /> <span style="color: red;">insert non-EU acts</span>
+
 ### Goals of the IDSA
 
 ![Overview IDS enabled ecosystems](../media/Overview_IDS_enabled_ecosystems.jpg)
@@ -27,16 +38,12 @@ These principles provide the foundation for trusted data sharing and for the con
 
 IDSA specifies foundational requirements and implementable reference architectures that enable organizations of all sizes and sectors to offer, discover, negotiate, and consume data-sharing arrangements for their digital assets.
 
-### The purpose and scope of the Rulebook
+You can find additional information about data space elements from IDSA in the following sources:
 
-The IDSA Rulebook supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
+- The IDSA website (<https://www.internationaldataspaces.org>) provides information about our work, use cases, publications and events.
+- The IDSA GitHub repositories (<https://github.com/International-Data-Spaces-Association>) host specifications, reference implementation guidelines and an open forum for member collaboration via issues, discussions and pull requests.
 
-- Common technical guidance, including functional requirements and specifications.
-- Recommendations for applying IDSA technical artefacts and for alignment with partner frameworks.
-- Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
-- Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
-
-The Rulebook describes how technical roles (for example, Participant and Data Space Governance Authority — DSGA) relate to economic and legal responsibilities, and how these roles may map to obligations under instruments such as the EU Data Governance Act and the EU Data Act. <span style="color: red;">insert link to the acts</span> <br /> <span style="color: red;">insert non-EU acts</span>
+<span style="color: red;">add information on how to become a member and how to participat in IDSA working groups</span>
 
 ## Relationship with other organizations & initiatives
 
@@ -56,13 +63,5 @@ The Rulebook describes how technical roles (for example, Participant and Data Sp
 
 <span style="color: red;">Insert information about the Dataspace Radar and Dataspace Connector Report --insert links</span>
 
-## Related documents
-
-You can find additional information about data space elements from IDSA in the following sources:
-
-- The IDSA website (<https://www.internationaldataspaces.org>) provides information about our work, use cases, publications and events.
-- The IDSA GitHub repositories (<https://github.com/International-Data-Spaces-Association>) host specifications, reference implementation guidelines and an open forum for member collaboration via issues, discussions and pull requests.
-
-<span style="color: red;">add information on how to become a member and how to participat in IDSA working groups</span>
-
+## How to contribute
 <span style="color: red;">add disclaimer about contributions being done under CC-BY</span>
