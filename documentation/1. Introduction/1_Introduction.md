@@ -31,7 +31,7 @@ IDSA specifies foundational requirements and implementable reference architectur
 
 The IDSA Rulebook supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
 
-- Common technical guidance, including functional requirements and the specification of value-adding services.
+- Common technical guidance, including functional requirements and specifications.
 - Recommendations for applying IDSA technical artefacts and for alignment with partner frameworks.
 - Operational guidance for collaboration, roles, and processes that enable data space ecosystems.
 - Perspectives on implementing and complying with international legal and regulatory obligations to facilitate trusted, cross-border data sharing.
