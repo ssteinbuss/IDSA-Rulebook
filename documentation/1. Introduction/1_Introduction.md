@@ -19,7 +19,7 @@ The International Data Spaces Association (IDSA) aims to cultivate a vibrant pra
 
 To that end, IDSA develops the Data Space Requirements (the Rulebook), the Reference Architecture Models (RAMs), complementary implementation and operations guidance. IDSA also engages with international standardization bodies and open-source initiatives to harmonize and share the knowledge contributed by its members, thereby supporting the global adoption and interoperability of data space technologies and business models.
  
-The central objectives for data spaces is the protection of the autonomy of participants, and to enable their agency over data sharing and use. This leads to the establishment of trustworthiness in data sharing. The IDSA Manifesto articulates the fundamental principles that underpin these objectives:
+The central objectives for data spaces is the establishment of trustworthiness in data sharing. The IDSA Manifesto articulates the fundamental principles that underpin these objectives:
 
 <span style="color: red;">insert link and/or screenshot to the Manifesto here</span>
 
