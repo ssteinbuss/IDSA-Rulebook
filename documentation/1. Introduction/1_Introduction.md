@@ -64,4 +64,5 @@ You can find additional information about data space elements from IDSA in the f
 <span style="color: red;">Insert information about the Dataspace Radar and Dataspace Connector Report --insert links</span>
 
 ## How to contribute
-<span style="color: red;">add disclaimer about contributions being done under CC-BY</span>
+The IDSA Rulebook is published under the [CC-BY license](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/main/LICENSE.md). If you wish to contribute, please take a look at our [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/main/CONTRIBUTING.md). Please take our [Code of Conduct](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook/blob/main/CODE_OF_CONDUCT.md) into account.
+
