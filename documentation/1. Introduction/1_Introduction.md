@@ -9,7 +9,7 @@ The Rulebook offers practical guidance for those working with diverse forms of d
 
 ## Goals and scope of the IDSA Rulebook
 
-### The purpose and scope of the Rulebook
+### The purpose and scope of the IDSA Rulebook
 
 The IDSA Rulebook supports the creation, operation, and growth of data spaces by distinguishing mandatory requirements from optional, value-adding practices. Its scope spans technical, commercial, and legal dimensions:
 
