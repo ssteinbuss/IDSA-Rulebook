@@ -52,8 +52,6 @@ You can find additional information about data space elements from IDSA in the f
 - The IDSA website (<https://www.internationaldataspaces.org>) provides information about our work, use cases, publications and events.
 - The IDSA GitHub repositories (<https://github.com/International-Data-Spaces-Association>) host specifications, reference implementation guidelines and an open forum for member collaboration via issues, discussions and pull requests.
 
-<!-- <span style="color: red;">add information on how to become a member and how to participat in IDSA working groups</span> -->
-
 ## Relationship with other organizations, projects & initiatives
 
 ### How Do Initiatives Relate in the field of Data Spaces?
