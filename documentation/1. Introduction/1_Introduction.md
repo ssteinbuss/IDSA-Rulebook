@@ -68,7 +68,7 @@ IDSA provides a unique forum for aligning perspectives across its community. By 
 In short, IDSA serves as the bridge between conceptual discussions, community requirements, and downstream technical specifications.
 
 ## ISO/IEC 20151: A Common Foundation
-One of the major conerstones in formal standardization of data spaces is **ISO/IEC 20151, Information Technology – Cloud Computing and Distributed Platforms – Dataspace Concepts and Characteristics**.
+One of the major cornerstones in formal standardization of data spaces is **ISO/IEC 20151, Information Technology – Cloud Computing and Distributed Platforms – Dataspace Concepts and Characteristics**.
 This standard provides a clear and authoritative definition of Data Space concepts, distinguishing them from related ideas such as data warehouses, data lakes, data fabrics, or data meshes. By describing the essential characteristics and requirements of a data space, ISO/IEC 20151 reduces ambiguity and helps ensure consistency in design and implementation.
 The standard is not only conceptual; it also provides the baseline for interoperability. By establishing common ground, it enables both intra-data space (within a single ecosystem) and inter-data space (across ecosystems) technical compatibility. In doing so, it creates the foundation on which further specifications and open-source implementations can build.
 
