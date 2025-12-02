@@ -57,10 +57,16 @@ Once the future participant has all technical components up and running they nee
  
 ![Figure 4 - An On-boarding Service verifies compliance with the rules of the dataspace](../media/Decentralized_Dataspaces/A3.jpg)
 
-While the Onboarding Entity can directly issue membership credentials for the new participant it will many times require additional steps from external actors, e.g. from Credential Issuers from Dataspace Trust Frameworks that are being leveraged within the dataspace.
+If the data space relies on an onboarding entity to manage the onboarding process this entity can ensure the adherance to membership rules and potential additional steps like checking the validity of external DTF credentials.
+
+If there is no onboarding entity a new participant could simply prove their eligibility to be a member of the data space by providing claims to another participant who accepts the membership after evaluating all membership rules and the claims provided.
+
+There are many other models of how membership of a dataspace can be established. For further process steps in this article the focus will be on the scenario of an Onboarding Entity working with an external credential issuer.
+
+Often the Onboarding Entity can directly issue membership credentials for the new participant, however, in this scenario it requires additional steps from external actors, the Credential Issuers from a DTF which are being used within the dataspace.
 
 ### Obtaining Credentials from Dataspace Trust Frameworks
-Typically a Dataspace Governance Authority will not define every single rule of the dataspace but rely on existing Dataspace Trust Frameworks to provide building blocks from which to construct the DSGAs rules for this specific dataspace. E.g. Gaia-X could be leveraged to provide labeling for the infrastructure providers used by individual participants, iShare could be supporting the legal onboarding of participants. In those cases the Onboarding Service will need to collaborate with the onboarding/issuing services of the various DTFs. However, the ultimate responsibility of maintaining credentials about their claims is with the participant. So although the Onboarding Service of the Dataspace might collaborate with the Issuance Service of the DTF the DTF credential has to be issued directly to the dataspace participant. 
+In complex, large-scale data spaces  a Dataspace Governance Authority will not define every single rule of the dataspace but rely on existing Dataspace Trust Frameworks to provide building blocks from which to construct the DSGAs rules for this specific dataspace. E.g. Gaia-X could be leveraged to provide labeling for the infrastructure providers used by individual participants, iShare could be supporting the legal onboarding of participants. In those cases the Onboarding Service will need to collaborate with the onboarding/issuing services of the various DTFs. However, the ultimate responsibility of maintaining credentials about their claims is with the participant. So although the Onboarding Service of the Dataspace might collaborate with the Issuance Service of the DTF the DTF credential has to be issued directly to the dataspace participant. 
 Once issued the dataspace participant can use this credential together with the membership credentials from the Dataspace Onboarding Service to provide evidence of its claims when negotiating a sharing contract with other participants of the dataspace.
  
 ![Figure 5 - Credential Issuer issues credentials](../media/Decentralized_Dataspaces/A4.jpg)
