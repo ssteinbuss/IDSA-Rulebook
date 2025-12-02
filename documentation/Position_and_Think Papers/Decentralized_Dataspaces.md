@@ -23,7 +23,13 @@ Any business role within the dataspace, e.g. Provider, Consumer, Auditor, Market
 There is no need for custom technical architectures or specialized protocols to satisfy those business roles and their requirements. No additional architectural components (e.g. central or federated catalogs, identity providers, etc…) are needed to create an operational dataspace. On the contrary, adding such special architectural components reintroduces centralization and fragility to the dataspaces and becomes a single point of control and potential failure, very often resulting in performance bottlenecks or preferred attack points during cybersecurity events.
 
 ## Trust Frameworks and Credential Management
-Trust within the dataspace is anchored by external Dataspace Trust Frameworks (DTFs), which act as credential issuer / signer. Instead of maintaining membership lists, the architecture relies on onboarding credentials—issued and managed by participants themselves, checked and validated by onboarding services and signed by signatory services, the credential issuance service of the DTFs. This model ensures that each participant is responsible for their own credential lifecycle, promoting autonomy and reducing administrative overhead.
+Trust within the dataspace is governed by at least one Dataspace Trust Framework (DTF). DTFs contain the rules that are fundamental to trust creation within the data space. An empty DTF/no DTF also qualifies as a DTF as no rules can be interpreted as data being shared with anyone without conditions (e.g.: Open Data). 
+
+DTFs can be built hierachically by partial DTFs, external DTFs, DTF building blocks, etc. It is the responsibility of the DSGA to and/or the participant to resolve potential conflicts between used DTFs to arrive at a final set of rules without ambiguity. If a data asset is offered under two different rule sets it is being represented as two different contract offers.
+
+Optionally a data space may anchore one or more DTFs in an external DTF Issuer, which act as credential issuer / signer. 
+
+Instead of maintaining membership lists, the architecture relies on onboarding credentials—issued and managed by participants themselves, checked and validated by onboarding services and signed by signatory services, the credential issuance service of the DTFs. This model ensures that each participant is responsible for their own credential lifecycle, promoting autonomy and reducing administrative overhead.
 
 Credential verification is handled on-demand, reinforcing the decentralized nature of the dataspace and minimizing the risk of single points of failure or control.
 
