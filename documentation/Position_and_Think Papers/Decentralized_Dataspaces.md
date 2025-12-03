@@ -45,19 +45,19 @@ When designing the data space business functions it is important to pay attentio
 ### Joining a dataspace
 Decentralized dataspace architecture emphasizes the autonomy and agency of participants, thus it must be a voluntary decision of a participant to join a dataspace. 
  
-![Figure 2 - a new organization wants to join a decentralized dataspace](../media/Decentralized_Dataspaces/A1.PNG)
+![Figure 2 - a new organization wants to join a decentralized dataspace](../media/Decentralized_Dataspaces/Slide1.PNG)
 
 ### Selecting a hosting model and provider
 However, with great power also comes great responsibility, so the participant has some work to do. It’s not like joining a centralized platform, where one creates an account and that’s it. The participant needs to actively make a decision on where to operate the technology that’s needed to be active in a dataspace: The dataspace connector, the wallet, data staging areas, etc… Although this seems to be a complex and difficult task to accomplish it is ultimately what enables digital sovereignty. Every participant can operate on the infrastructure of their choice and they can make an autonomous decision on how much agency to have. Any operating model available - from on premises to  classical cloud computing is also possible for dataspace technologies: starting at a fully customized hosting model on one end of the spectrum, a platform as a service model for connectors and wallets, all the way to fully managed use case services (e.g. a data intermediary offering a Digital Product Passport service including sharing capabilities to a manufacturing dataspace) on the other side of the spectrum. Further, such components might be operated for an individual dataspace or reusable for a multitude of dataspaces by leveraging dynamic contexts and configuration capabilities.
 
-![Figure 3 - the organization provisions dataspace resources with the infrastructure provider of their choice](../media/Decentralized_Dataspaces/A2.PNG)
+![Figure 3 - the organization provisions dataspace resources with the infrastructure provider of their choice](../media/Decentralized_Dataspaces/Slide2.PNG)
 
 ### Onboarding to a dataspace
 Once the future participant has all technical components up and running they need to understand the rules and processes of the dataspace, maybe sign some legal contracts of the dataspace organization, provide evidence on their claims that they satisfy the rules of the dataspace and many other steps needed to be onboarded to the dataspace. This can be done by an onboarding service provided by the organization representing the community of the dataspace (e.g. a not for profit organization, a government entity responsible for a regulatory dataspace, or a commercial entity leading a dataspace created around their organization and its partners). This onboarding service is needed only as a one-time access point while joining the dataspace. It might have an additional service like notifying existing members that a new member is joining, but usually will not be needed for the ongoing operation of the dataspace. 
 
 It is important to understand that in a decentralized architecture, no ongoing dependency on a central or federated services should be mandated. As this example illustrates on popular mechanism to realize a decentralized architecture there are other solution paths as well.
  
-![Figure 4 - An On-boarding Service verifies compliance with the rules of the dataspace](../media/Decentralized_Dataspaces/A3.PNG)
+![Figure 4 - An On-boarding Service verifies compliance with the rules of the dataspace](../media/Decentralized_Dataspaces/Slide3.PNG)
 
 If the data space relies on an onboarding entity to manage the onboarding process this entity can ensure the adherance to membership rules and potential additional steps like checking the validity of external DTF credentials.
 
@@ -76,12 +76,12 @@ Once issued the dataspace participant can use this credential together with the 
 
 It is important to note that many variations of this process can exist and it is part of the role of the DSGA to define the exact business process which leads to the set of credentials that are then resulting in a membership credential for the data space in question. This process can be influenced by business needs, regulation, and other external factors.
  
-![Figure 5 - Credential Issuer issues credentials](../media/Decentralized_Dataspaces/A4.PNG)
+![Figure 5 - Credential Issuer issues credentials](../media/Decentralized_Dataspaces/Slide4.PNG)
 
 ### Using credentials in the dataspace
 When two participants of a dataspace interact it will be necessary to match policy constraints of one party to the claims that the other party presents. In most cases it will be sufficient to verify the signature of the credential issuer and the expiration date as the claim is presented by the participant. After all cryptographical methods will enable the other party to verify that the presented credential is representing the counterparty and has been signed by the credential issuer. However, in more complex cases it might be necessary to check the validity of a signature synchronously with the Credential Issuer. One such example can be the necessity of near real-time checks of the revocation of a credential.
  
-![Figure 6 - Credentials are verified by other participants](../media/Decentralized_Dataspaces/A5.PNG)
+![Figure 6 - Credentials are verified by other participants](../media/Decentralized_Dataspaces/Slide5.PNG)
 
 ## Global Dataspace Connector Mesh
 As decentralized architectures proliferate, a global mesh of dataspace connectors is emerging. Each dataspace maintains its own legal and trust boundaries, ensuring that governance and compliance are localized and context-specific. At the same time, the underlying technologies—connectors, protocols, credential management systems—are reusable across multiple dataspaces, maximizing efficiency and reducing duplication.
