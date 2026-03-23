@@ -7,14 +7,14 @@
 * [Front Matter](./FrontMatter.md)
 * [Contributing Projects](./Contributing_Projects.md)
 
-* [Introduction](./1_Introduction.md)
-* [Guiding Principles](./2_Guiding_Principles.md)
-* [Functional Requirements](./3_Functional_Requirements.md)
-* [Interoperability in Data Spaces](./3_Interoperability.md)
-* [Technical Agreements](./4_Technical_Agreements.md)
-* [Organizational Agreements](./5_Organizational_Agreements.md)
-* [Legal Dimension](./6_Legal_Dimension.md)
-* [Summary and Outlook](./7_Summary_Outlook.md)
+* [Introduction](1.%20Introduction/1_Introduction.md)
+* [Guiding Principles](2.%20Guiding_Principles/2.%20Guiding%20Principles.md)
+* [Functional Requirements](3.%20Functional_Requirements/3.%20Functional_Requirements.md)
+* [Interoperability in Data Spaces](3.%20Functional_Requirements/3.11%20Interoperability_in_data_spaces.md)
+* [Technical Agreements](4.%20Technical_Agreements/4.%20Technical_Agreements.md)
+* [Organizational Agreements](5.%20Organizational_Agreements/5.%20Organizational_Agreements.md)
+* [Legal Dimension](6.%20Legal_Dimension/6.%20Legal_Dimension.md)
+* [Summary and Outlook](7.%20Summary_Outlook/7_Summary_Outlook.md)
 
 ## Purpose & Motivation ##
 
