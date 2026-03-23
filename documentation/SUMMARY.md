@@ -23,7 +23,7 @@
    * [Data space participation](./3.%20Functional_Requirements/3.4%20Data_space_participation.md)
    * [Creating a data space](./3.%20Functional_Requirements/3.5%20Creating_a_data_space.md)
    * [Data discovery](./3.%20Functional_Requirements/3.6%20Data_discovery.md)
-   * [Catalog(s)](./3.%20Functional_Requirements/3.7%20Catalog(s).md)
+   * [Catalog(s)](./3.%20Functional_Requirements/3.7%20Catalogs.md)
    * [Data sharing](./3.%20Functional_Requirements/3.8%20Data_sharing.md)
    * [Observability](./3.%20Functional_Requirements/3.9%20Observability.md)
    * [Vocabularies](./3.%20Functional_Requirements/3.10%20Vocabularies.md)
