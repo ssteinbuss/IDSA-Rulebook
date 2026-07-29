@@ -2,4 +2,4 @@
 
 what do we do now?
 this is what we want to do now
-and we thorw it away
+and we throw it away
